@@ -17,7 +17,7 @@ To complete the assignment, please do the following:
 
 
 
-# List of favorite number
+# List of interesting number
 
 1
 
