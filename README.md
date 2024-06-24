@@ -20,6 +20,6 @@ To complete the assignment, please do the following:
 # List of interesting number
 
 1
+30
 1019
 6
-
