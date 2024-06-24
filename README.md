@@ -20,4 +20,8 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
-# List of Hobby
+# My Project (Food-collection)
+Goal - I want contributors to help me list some favorite Food.
+
+# List of Food.
+1. チャーハン
