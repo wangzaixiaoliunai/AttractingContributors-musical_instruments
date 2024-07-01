@@ -24,3 +24,6 @@ To complete the assignment, please do the following:
 1019
 6
 65842375
+762
+0
+137
