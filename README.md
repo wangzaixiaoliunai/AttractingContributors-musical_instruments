@@ -24,3 +24,11 @@ To complete the assignment, please do the following:
 1019
 6
 29
+21
+57
+48000
+17
+65842375
+762
+0
+137
