@@ -23,6 +23,7 @@ To complete the assignment, please do the following:
 30
 1019
 6
+21
 57
 48000
 17
