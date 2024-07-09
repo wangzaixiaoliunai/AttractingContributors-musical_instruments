@@ -24,3 +24,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 - Hamamatsu
 - Nagoya
 - Shanghai
+- Kyoto city
+- 
