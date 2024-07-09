@@ -11,7 +11,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 3. Nyahoja (Sprigatito, #0906)
 4. Pikachu
 5. Thunders
-6. 
+6. Kairos
 7. 
 8. 
 9. 
