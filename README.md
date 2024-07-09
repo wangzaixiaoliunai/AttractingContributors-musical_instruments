@@ -12,7 +12,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 4. Pikachu
 5. Thunders
 6. Kairos
-7. 
+7. Scyther
 8. 
 9. 
 10. 
