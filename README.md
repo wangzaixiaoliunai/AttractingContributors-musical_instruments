@@ -10,7 +10,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 3. Mega Mawile
 3. Nyahoja (Sprigatito, #0906)
 4. Pikachu
-5. 
+5. Thunders
 6. 
 7. 
 8. 
