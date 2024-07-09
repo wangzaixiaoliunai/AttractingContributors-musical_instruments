@@ -15,7 +15,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 7. Scyther
 8. ミュウツー
 9. 
-10. 
+10. HOGATOR!!!!!!!!!!!
 11. 
 12. 
 13. snorlax
