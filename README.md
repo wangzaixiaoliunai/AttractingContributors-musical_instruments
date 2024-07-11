@@ -14,7 +14,7 @@ Goal - I want contributors to help me list some favorite Pokémon.
 6. Kairos
 7. Scyther
 8. ミュウツー
-9. 
+9. Psyduck
 10. HOGATOR!!!!!!!!!!!
 11. 
 12. 
