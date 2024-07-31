@@ -28,3 +28,4 @@ To complete the assignment, please do the following:
 
 # List of Songs
 1. Let it Be
+2. Scarborough Fair
