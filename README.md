@@ -29,4 +29,6 @@ To complete the assignment, please do the following:
 # List of Songs
 1. Let it Be
 2. Scarborough Fair
-3. One Last Kiss
+3. Omg
+4. イルカ (SOUL'd OUT)
+5. One Last Kiss
