@@ -32,4 +32,5 @@ To complete the assignment, please do the following:
 3. Omg
 4. イルカ (SOUL'd OUT)
 5. One Last Kiss
-6. Stay
+6. Lemon
+7. Stay
